@@ -20,4 +20,4 @@ When an event occurs, the following methods are used to apply filter values to t
 - [DashboardControl.PerformDrillUp](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl.PerformDrillUp(System.String))
 
 
-![](https://github.com/DevExpress-Examples/wpf-dashboard-linked-interactivity/blob/18.1.3+/images\wpf-dashboard-linked-interactivity.png)
+![](https://github.com/DevExpress-Examples/wpf-dashboard-linked-interactivity/blob/18.1.3%2B/images/wpf-dashboard-linked-interactivity.png)
