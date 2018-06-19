@@ -1,3 +1,5 @@
+# How to Synchronize Master Filter and Drill Down Actions Between Dashboards
+
 This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
 
 The main form contains the [DashboardControl](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl) with a loaded sample dashboard. The _Show Child Window_ button  invokes another window containing the **DashboardControl** with a different dashboard.
