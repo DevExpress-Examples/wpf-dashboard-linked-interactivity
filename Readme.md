@@ -1,4 +1,4 @@
-# How to Synchronize Master Filter and Drill Down Actions Between Dashboards
+# WPF Dashboard Control - How to Synchronize Master Filter and Drill Down Actions Between Dashboards
 
 This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
 
