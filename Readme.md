@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830576)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# WPF Dashboard Control - How to Synchronize Master Filter and Drill Down Actions Between Dashboards
+# Dashboard for WPF - How to Synchronize Master Filter and Drill Down Actions Between Dashboards
 
 This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
 
