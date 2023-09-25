@@ -26,8 +26,17 @@ When an event occurs, the following methods are used to apply filter values to t
 - [DashboardControl.PerformDrillDown](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl.PerformDrillDown(System.String-System.Object))
 - [DashboardControl.PerformDrillUp](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl.PerformDrillUp(System.String))
 
-
 ![](./images/wpf-dashboard-linked-interactivity.png)
+
+## Files to Review
+
+* [ChildWindow.xaml](./CS/WpfDashboard_LinkedInteractivity/ChildWindow.xaml) / [VB: ChildWindow.xaml](./VB/WpfDashboard_LinkedInteractivity/ChildWindow.xaml)
+
+* [ChildWindow.xaml.cs](./CS/WpfDashboard_LinkedInteractivity/ChildWindow.xaml.cs) / [ChildWindow.xaml.vb](./VB/WpfDashboard_LinkedInteractivity/ChildWindow.xaml.vb)
+
+* [MainWindow.xaml](./CS/WpfDashboard_LinkedInteractivity/MainWindow.xaml) / [VB: MainWindow.xaml](./VB/WpfDashboard_LinkedInteractivity/MainWindow.xaml)
+
+* [MainWindow.xaml.cs](./CS/WpfDashboard_LinkedInteractivity/MainWindow.xaml.cs) / [MainWindow.xaml.vb](./VB/WpfDashboard_LinkedInteractivity/MainWindow.xaml.vb)
 
 ## Documentation
 - [Master Filtering and Drill-Down](https://docs.devexpress.com/Dashboard/400011/building-the-designer-and-viewer-applications/wpf-viewer/manage-interactivity-capabilities)
